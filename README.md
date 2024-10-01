@@ -7,9 +7,6 @@ Welcome to the **Travel Agency Website** project! This website is designed to he
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
