@@ -33,4 +33,4 @@ Welcome to the **Travel Agency Website** project! This website is designed to he
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/travel-agency-website.git
+   git clone https://github.com/Harubs3872/tourism
