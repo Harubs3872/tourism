@@ -69,3 +69,13 @@ nav a{
     font-style: normal;
     
 }
+footer{
+    margin: -10px;
+}
+.text{
+    font-family: Inter;
+}
+.visa{
+    margin-left:-850px;
+    width: 200px;
+}
